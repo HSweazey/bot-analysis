@@ -204,7 +204,7 @@ reserved for Gemini.
 
 ### Layer 2 — Gemini LLM-as-Judge
 
-Gemini (`gemini-2.0-flash-lite` or equivalent) acts as an expert evaluator, scoring all 7 dimensions
+Gemini (`gemini-3-flash-preview` or equivalent) acts as an expert evaluator, scoring all 7 dimensions
 with language understanding rather than keyword matching.
 
 #### Prompt Design
